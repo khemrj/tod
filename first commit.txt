@@ -1,3 +1,7 @@
 hello there my name is kham and i am about to do first commit
 -- first commit
 now lets do second commit too
+Reverting is not possible because you have unmerged files. vandai xa so:
+third commit is here
+
+
