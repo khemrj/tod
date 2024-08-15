@@ -1,1 +1,3 @@
 hello there my name is kham and i am about to do first commit
+-- first commit
+now lets do second commit too
