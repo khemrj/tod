@@ -5,3 +5,12 @@ for( int i = 0; i<5; i++)
 Khem is doing great isn't he right.
 He is writing some loop to run his life infinitely
 }
+
+# Bubble Sort
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
